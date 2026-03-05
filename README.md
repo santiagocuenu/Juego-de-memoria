@@ -7,3 +7,5 @@ Si las cartas seleccionadas coinciden, permanecen descubiertas; en caso contrari
 Este programa fue desarrollado como parte de un ejercicio de programación con el fin de aplicar conceptos básicos como el uso de variables, estructuras de control, funciones y manejo de listas. Además, busca reforzar habilidades de lógica, concentración y memoria.
 
 El proyecto demuestra cómo a través de la programación es posible crear juegos interactivos que combinan aprendizaje, lógica y entretenimiento.
+
+Resultado: https://memory-match-master--jhon5087.replit.app
